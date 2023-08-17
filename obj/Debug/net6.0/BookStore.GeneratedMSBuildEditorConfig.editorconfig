@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BookStore
+build_property.RootNamespace = BookStore
+build_property.ProjectDir = D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Import Export CSV file - CRUD API Dapper - login  - BookStore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Import Export CSV file - CRUD API Dapper - login  - BookStore
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Book/CreateAndUpdateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGVBbmRVcGRhdGVCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Book/ReadBooks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xSZWFkQm9va3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Login/LoginAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5BY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Login/NewUserRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTmV3VXNlclJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tqf8g8k84y
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Import Export CSV file - CRUD API Dapper - login  - BookStore/Views/Shared/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-xi6cjucuuh

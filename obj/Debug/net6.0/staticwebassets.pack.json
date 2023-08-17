@@ -1,0 +1,713 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\0.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\0.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\10.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\10.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\11.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\11.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\3.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\4.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\4.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\5.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\5.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\6.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\6.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\7.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\7.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\8.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\8.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\Pictures\\9.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\9.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app-rtl.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\css\\app.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\app.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\bootstrap-dark.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\bootstrap-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\bootstrap-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\big\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\big\\bg.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\big\\img1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\flags\\french.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\french.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\layouts\\dark.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\dark.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\layouts\\light.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\light.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\layouts\\rtl.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\rtl.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\images\\logo-light.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\logo-sm.png",
+      "PackagePath": "staticwebassets\\images\\logo-sm.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\plugins\\clear.png",
+      "PackagePath": "staticwebassets\\images\\plugins\\clear.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\plugins\\jstree.png",
+      "PackagePath": "staticwebassets\\images\\plugins\\jstree.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\plugins\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\plugins\\loading.gif"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\plugins\\multiple-arrow.png",
+      "PackagePath": "staticwebassets\\images\\plugins\\multiple-arrow.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\small\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\bg.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\small\\bg1.png",
+      "PackagePath": "staticwebassets\\images\\small\\bg1.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\small\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\img1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\small\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\img2.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\small\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\img3.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-10.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-9.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\app.min.js.map",
+      "PackagePath": "staticwebassets\\js\\app.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\calendar.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\calendar.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\chartist.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chartist.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chartjs.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\coming-soon.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\coming-soon.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\customize.js",
+      "PackagePath": "staticwebassets\\js\\pages\\customize.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\dashboard.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\datatables.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\datatables.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\easy-pie-chart.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\easy-pie-chart.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\flot.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\flot.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\form-advanced.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-advanced.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\form-quilljs.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-quilljs.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\form-summernote.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-summernote.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\form-validation.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-validation.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\form-wizard.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-wizard.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\form-xeditable.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-xeditable.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\gallery.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\gallery.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\google-maps.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\google-maps.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\jquery.chat.js",
+      "PackagePath": "staticwebassets\\js\\pages\\jquery.chat.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\jquery.todo.js",
+      "PackagePath": "staticwebassets\\js\\pages\\jquery.todo.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\morris.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\morris.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\nestable.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\nestable.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\peity.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\peity.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\range-sliders.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\range-sliders.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\responsive-table.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\responsive-table.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\sparkline.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\sparkline.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\sweet-alerts.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\sweet-alerts.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\tabledit.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\tabledit.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\toastr.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\toastr.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\vector-maps.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\vector-maps.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\pages\\widgets.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widgets.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\js\\vendor.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\js\\vendor.min.js.map",
+      "PackagePath": "staticwebassets\\js\\vendor.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Import Export CSV file - CRUD API Dapper - login  - BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookStore.props",
+      "PackagePath": "build\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookStore.props",
+      "PackagePath": "buildTransitive\\BookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

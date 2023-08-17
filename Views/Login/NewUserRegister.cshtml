@@ -1,0 +1,89 @@
+﻿@{
+    Layout = "_Login";
+}
+
+
+<div class="account-pages my-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6 col-xl-5">
+                <div class="card mt-4">
+                    <div class="card-header bg-img p-5 position-relative">
+                        <div class="bg-overlay"></div>
+                        <h4 class="text-white text-center mb-0">Create a new Account</h4>
+                    </div>
+                    <div class="card-body p-4 mt-2">
+                        @if (ViewBag.errors != null)
+                        {
+                            <div class="alert alert-danger">
+                                @foreach (string error in ViewBag.errors)
+                                {
+                                    @error
+                                }
+                            </div>
+                        }
+                        <form asp-controller="User" asp-action="CreateAndUpdateUser" class="p-3">
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="hidden" placeholder="User ID" id="UserID" name="UserID" value="@ViewBag.user.UserID">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="First Name" id="FirstName" name="FirstName" value="@ViewBag.user.FirstName">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="Last Name" id="LastName" name="LastName" value="@ViewBag.user.LastName">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="email" required="" placeholder="Email" id="Email" name="Email" value="@ViewBag.user.Email">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="tel" required="" placeholder="Phone Number" id="Phone" name="Phone" value="@ViewBag.user.Phone">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="password" required="" placeholder="Password" id="Password" name="Password" value="@ViewBag.user.Password">
+                                <!-- An element to toggle between password visibility -->
+                                <input type="checkbox" onclick="ShowPassword()"> Show Password
+                            </div>
+
+                            <div class="form-group text-center mt-5 mb-4">
+                                <button class="btn btn-primary waves-effect width-md waves-light" type="submit"> Register </button>
+                            </div>
+
+                            <div class="form-group row mb-0">
+                                <div class="col-sm-12 text-center">
+                                    <a href="/Login/LoginAction/">Already have account?</a>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- end card-body -->
+                </div>
+                <!-- end card -->
+                <!-- end row -->
+
+            </div>
+            <!-- end col -->
+        </div>
+        <!-- end row -->
+
+    </div>
+</div>
+
+<script type="text/javascript">
+    function ShowPassword() {
+        var x = document.getElementById("Password");
+        if (x.type === "password") {
+            x.type = "text";
+        }
+        else {
+            x.type = "password";
+        }
+    }
+</script>
+

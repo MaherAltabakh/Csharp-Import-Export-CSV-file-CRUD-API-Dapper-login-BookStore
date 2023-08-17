@@ -1,0 +1,70 @@
+﻿@{
+    Layout = "_Login";
+}
+
+
+<div class="account-pages my-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6 col-xl-5">
+                <div class="card mt-4">
+                    <div class="card-header bg-img p-5 position-relative">
+                        <div class="bg-overlay"></div>
+                        <h4 class="text-white text-center mb-0">Sign In to Book Store</h4>
+                    </div>
+                    <div class="card-body p-4 mt-2">
+                        @if (ViewBag.ErrorMessage != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @foreach (string error in ViewBag.ErrorMessage)
+                                {
+                                    @Html.Raw( @error)
+                                }
+                            </div>
+                        }
+                    </div>
+
+                        <form asp-controller="Login" asp-action="LoginAction" class="p-3" method="post">
+                            <div class="form-group mb-3">
+                                <input name="Email" id="Email" class="form-control" type="email" required="" placeholder="Email">
+                            </div>
+                           
+                            <div class="form-group mb-3">
+                            <input id="Password" name="Password" class="form-control" type="password" required="" placeholder="Password"> <br />
+                                <!-- An element to toggle between password visibility -->
+                                <input type="checkbox" onclick="ShowPassword()"> Show Password
+                            </div>
+
+                            <div class="form-group text-center mt-5 mb-4">
+                                <button class="btn btn-primary waves-effect width-md waves-light" type="submit"> Log In </button>
+                            </div>
+
+                            <div class="form-group row mb-0">
+                                <div class="col-sm-7">
+                                </div>
+                                <div class="col-sm-5 text-right">
+                                    <a href="Login/NewUserRegister?UserID=0">Create an account</a>
+
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- end card-body -->
+                </div>  <!-- end card -->
+            </div>  <!-- end col -->
+        </div>  <!-- end row -->
+    </div> <!-- end container -->
+
+
+<script type="text/javascript">
+    function ShowPassword() {
+        var x = document.getElementById("Password");
+        if (x.type === "password") {
+            x.type = "text";
+        }
+        else {
+            x.type = "password";
+        }
+    }
+</script>
